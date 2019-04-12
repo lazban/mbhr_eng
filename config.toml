@@ -1,0 +1,56 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en"
+#disqusShortname = "made-by-human-race"
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Made By Human Race"
+  subtitle    = ""
+
+  cover       = "/images/oggsogg19/head_v3.jpg"
+  description = ""
+  metaDescription = ""
+  googleAnalytics = "UA-41139230-12"
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "madebyhumanrace"
+  fbName = ""
+  githubName = ""
+
+  logo = ""
+  orgName = "MBHR"
+  orgWebsite = ""
+  orgDescription = ""
+
+  author = "MBHR"
+  authorAvatar = "images/generic/avatar_220.png"
+  authorLocation = "planer, Earth"
+  authorWebsite = ""
+  authorDescription = ""
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+  talkyardServerUrl = "https://comments-for-madebyhumanrace-org.talkyard.net"
+
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+
+
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  serie = "series"
