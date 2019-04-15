@@ -9,7 +9,7 @@ type: "page"
 
 If you got questions, please use this post. The email will be used only for answering.
 
-<form method="POST" action="https://formspree.io/mail@mobile.madebyhumanrace.com">
+<form method="POST" action="https://formspree.io/mail@madebyhumanrace.com">
   <input type="email" name="email" placeholder="email address"><br>
   <textarea name="message" placeholder="message"></textarea><br>
   <button type="submit">SEND!</button>
