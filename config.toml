@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "/madebyhumanrace.page"
 theme           = "casper-two"
 languageCode    = "en"
 #disqusShortname = "made-by-human-race"
