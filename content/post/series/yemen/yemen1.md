@@ -4,17 +4,16 @@ description: "part1. What Yemen Was"
 date: 2019-04-09T12:43:17+01:00
 draft: false
 image: /images/yemen/yemen_1965.jpg
-categories: [""]
-tags: [""]
 series: ["yemen"]
+series_weight: 05
 ---
-This is a series about photographers that captured Yemen, and a bit of context.
+This is a series about photographers that captured Yemen, and a bit of context. Part1 - What Yemen Was
 
 If you wish to know something about the history of Yemen you should check Wikipedia or your physical encyclopedia. But, if you want not so much information and to gather in one place some photographers and talks about their photographs, well, that’s what I try to do in this series.
 
 I’d like to recap write down a bit of the Yemen history, that seems relevant to me. Also, here I want to analyse photographers, from Yemen and outside Yemen, who risked their lives to take stills from that land, to show us what that land was once, and is now.
 
-### 1 - What Yemen Was
+### What Yemen Was
 Ethnic groups in Yemen are just one: Arabs. But the reality is more complicated, as usual. Yemen has a constant history of divisions. In the beginning, it was all about trade across the strait of Bab el-Mandab involving modern-day Yemen, Ethiopia, and Eritrea. That was good from ~1.000 BC and 300 AC. After, Jewish and Christians arrived and, around the 7th century, Islam spread quickly. A lot of dynasties have followed one another over time from the 9th to 16th centuries. The more important was the Rasulid dynasty.
 
 Here follow a coin during the Rasulids dynasty, 1335, found at Aden.

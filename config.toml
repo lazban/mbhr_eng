@@ -9,10 +9,10 @@ paginate        = 6
   title       = "Made By Human Race"
   subtitle    = ""
 
-  cover       = "/images/oggsogg19/head_v3.jpg"
+  cover       = "/images/generic/head_jan19.jpg"
   description = ""
   metaDescription = ""
-  googleAnalytics = "UA-41139230-12"
+  googleAnalytics = "UA-41139230-13"
   customCSS = []
   RSSLink = ""
 
