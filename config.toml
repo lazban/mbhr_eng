@@ -1,4 +1,4 @@
-baseurl         = "/madebyhumanrace.page"
+baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "en"
 #disqusShortname = "made-by-human-race"
@@ -44,7 +44,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Home"
-  url = "madebyhumanrace.page"
+  url = "/"
   weight = 200
 
 
