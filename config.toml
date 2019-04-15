@@ -44,7 +44,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Home"
-  url = "/madebyhumanrace.page"
+  url = "madebyhumanrace.page"
   weight = 200
 
 
