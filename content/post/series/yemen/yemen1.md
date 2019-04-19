@@ -6,6 +6,7 @@ draft: false
 image: /images/yemen/yemen_1965.jpg
 series: ["yemen"]
 series_weight: 05
+tags: ["yemen"]
 ---
 This is a series about photographers that captured Yemen, and a bit of context. Part1 - What Yemen Was
 
