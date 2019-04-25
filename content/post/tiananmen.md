@@ -11,7 +11,7 @@ A photo that changed the world in 1989 is back on front pages.
 
 In 1989 students started to protest in Tiananmen Square in Beijing and probably they had no idea that they would have ended up facing tanks.
 
-It all started in mid-April.  I was 18 at the time, I was living in a western country where having civil rights was standard. But I realized that students around my age were not in my situation and were asking the Chinese government to give more freedom of speech, free press, right to manifest.
+It all started in mid-April. I was 18 at the time, I was living in a western country where having civil rights was standard. But I realized that students around my age were not in my situation and were asking the Chinese government to give more freedom of speech, free press, right to manifest.
 That's why my peers and I started demonstrating too. We went into the central plaza of my town, and we build our tents, we tried to express solidarity with those students from different part of the world.
 
 Each early morning we read newspapers and figure out how it was going.  Chinese students began a hunger strike in May when Gorbachev visited Beijing. Hundreds of thousands gathered in Tiananmen Square to join the protest.  The Russian president was starting a new era in USSR, talking about _glasnost_ and _perestroika_. We were thrilled. We knew that the world was about to change.  Probably we had the same feeling that those guys in Tiananmen Square. We both knew that something was going to happen.  And something happened.
@@ -67,3 +67,7 @@ The main object of the video is Tiananmen events in 1989 (as declared at the beg
 {{< figure src="/images/blog/leica_the_hunt.jpg" title="" >}}
 
 The famous scene of Tiananmen Square took the 5th of June, 1989, is a photograph that will stay forever as an icon of XX century and, unfortunately for China and its amnesia, as an icon of democracy.
+
+<a href="/fairuse">
+Please check home rules about Fair Use
+</a>
