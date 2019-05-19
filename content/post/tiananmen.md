@@ -70,4 +70,4 @@ The famous scene of Tiananmen Square took the 5th of June, 1989, is a photograph
 
 <a href="/fairuse">
 Please check home rules about Fair Use
-</a>
+</a> to understand how we use third parties images on this website.
