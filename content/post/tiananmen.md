@@ -61,7 +61,10 @@ The ad was made by F/Nazca Saatchi & Saatchi. The agency said that the productio
 
 Here is the video, re-uploaded on the web by a series of youtube channels.
 
-{{< yt UCUBAcGgb4A >}}
+_update may-2019: all youtube videoes were shot down again because of a F/Nazca strike for copyright reasons :(. This one comes from Vimeo_
+
+  <iframe src="https://player.vimeo.com/video/337126517" width="640" height="267" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  <p><a href="https://vimeo.com/337126517">Leica  The Hunt</a> from <a href="https://vimeo.com/user98708525">Made By Human Race</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 The main object of the video is Tiananmen events in 1989 (as declared at the beginning of the film), but the video also parallels Chinese regime with Africans mercenaries and with (what it seems to be) Isis. Probably that's too much, especially considering that the Chinese government is easy to be triggered.
 
