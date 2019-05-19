@@ -1,5 +1,6 @@
 ---
 title: "Human facing tanks"
+slug: "tiananmen"
 date: 2019-04-25T18:00:00+02:00
 draft: false
 description: "Photos of Tiananmen Square  changed the world in 1989 and they are back on front pages"
