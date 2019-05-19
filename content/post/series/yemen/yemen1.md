@@ -1,5 +1,6 @@
 ---
 title: "a (brief) history of Yemen"
+slug: "yemen-history1"
 description: "part1. What Yemen Was"
 date: 2019-04-09T12:43:17+01:00
 draft: false

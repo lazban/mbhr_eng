@@ -1,5 +1,6 @@
 ---
 title: "Women photographer vol. I"
+slug: "womenphotographer"
 date: 2019-04-17T18:24:33+02:00
 draft: false
 description: "an exhibition held in Berlin about female photographers"
